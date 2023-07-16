@@ -1,2 +1,3 @@
 # Spring-REST
-REST API with Spring Boot showing all the CRUD(Create, Read, Update, Delete) operations
+REST API with Spring Boot showing all the CRUD(Create, Read, Update, Delete) operations.
+API Test conducted with POSTMAN
